@@ -1,0 +1,5 @@
+[
+  { 
+    "keys": ["super+shift+alt+r"], "command": "r_docs"
+  }
+]
