@@ -4,16 +4,12 @@ I wanted a simple package to automate documentation of R libraries in Sublime Te
 
 ## Installation
 
----
-
 Just clone this repo into your `Sublime Text 3/Packages` folder. For me this is located at `~/Library/Application Support/Sublime Text 3/Packages/`.
 
     git clone git@github.com:explodecomputer/ST3roxygen.git
 
 
 ## Usage
-
----
 
 To insert documentation, when the cursor is on the function line press `cmd + alt + shift + r`.
 
